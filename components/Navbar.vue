@@ -1,5 +1,5 @@
 <template>
-  <nav class="fixed px-24 py-7 flex justify-between items-center bg-white w-full z-50">
+  <nav class="fixed px-28 py-5 flex justify-between items-center bg-white w-full z-50">
     <img class="" src="../assets/images/logo.svg" alt="logo">
     <div class="font-karla flex justify-center gap-8 items-center text-primary-grayBlue">
       <a href="" class="transition duration-200 hover:text-primary-darkViolet">HOW WE WORK</a>
