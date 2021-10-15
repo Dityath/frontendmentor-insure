@@ -1,5 +1,8 @@
 <template>
-  <div>sda</div>
+  <div>
+    <Navbar />
+    ssr
+  </div>
 </template>
 
 <script>
