@@ -8,7 +8,11 @@ module.exports = {
   ],
   darkMode: false, // or 'media' or 'class'
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        pattern: "url('/assets/images/bg-pattern-how-we-work-desktop.svg')"
+      }
+    },
     fontFamily: {
       "dm-serif": ["DM Serif Display", "serif"],
       karla: ["Karla", "sans-serif"]
