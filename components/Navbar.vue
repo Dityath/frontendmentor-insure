@@ -3,6 +3,7 @@
     flex justify-between px-4 py-5 items-center fixed w-full bg-white z-50
     sm:px-14
     lg:px-28
+    2xl:px-60 2xl:text-xl
   ">
     <img class="" src="../assets/images/logo.svg" alt="logo">
 

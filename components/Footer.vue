@@ -1,11 +1,11 @@
 <template>
-  <footer class="mx-auto relative px-5 sm:px-14 lg:px-28 py-20 bg-neutral-veryLightgray">
+  <footer class="mx-auto relative px-5 sm:px-14 lg:px-28 2xl:px-60 py-20 bg-neutral-veryLightgray">
     <div class="flex justify-between items-center">
       <img class="" src="../assets/images/logo.svg" alt="logo">
       <div>socials</div>
     </div>
     <hr class="my-10 text-neutral-darkGrayBlue">
-    <div class="flex flex-col justify-start text-center md:text-left md:flex-row md:gap-x-24 lg:gap-x-48 gap-y-10 md:gap-y-20 font-karla text-sm flex-wrap">
+    <div class="flex flex-col justify-start text-center md:text-left md:flex-row md:gap-x-24 lg:gap-x-48 2xl:gap-x-60 gap-y-10 md:gap-y-20 font-karla text-sm 2xl:text-xl flex-wrap">
       <div class=" text-neutral-veryDarkViolet">
         <h6 class="text-neutral-darkGrayBlue">OUR COMPANY</h6>
         <ul class="mt-8 cursor-pointer">
