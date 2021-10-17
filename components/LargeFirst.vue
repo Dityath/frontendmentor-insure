@@ -8,7 +8,7 @@ and technology to help you find the plan that’s right for you. Ensure you
 and your loved ones are protected.</p>
       <button class="font-karla text-neutral-veryLightgray p-2 px-6 mt-8 border-solid border-2 border-neutral-veryLightgray transition duration-200 hover:bg-neutral-veryLightgray hover:text-primary-darkViolet">VIEW PLANS</button>
     </div>
-    <img class="absolute right-28" src="../assets/images/image-intro-desktop.jpg" alt="First image">
+    <img class="absolute right-28 w-96 xl:w-auto" src="../assets/images/image-intro-desktop.jpg" alt="First image">
 
     <img class="absolute right-0 top-0" src="../assets/images/bg-pattern-intro-right-desktop.svg">
 
