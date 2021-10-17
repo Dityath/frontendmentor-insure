@@ -1,6 +1,8 @@
 # Frontend Mentor - Insure landing page
 
-![Design preview for the Insure landing page coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Insure landing page coding challenge](./assets/design/desktop-preview.jpg)
+
+Take a look at the site [here](https://insure-landingpage-dityath.netlify.app/)
 
 ## Welcome! 👋
 
