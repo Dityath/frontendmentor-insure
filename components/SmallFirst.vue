@@ -6,8 +6,8 @@
       <p class="font-karla mt-5 max-w-md m-auto">Get your life insurance coverage easier and faster. We blend our expertise 
 and technology to help you find the plan that’s right for you. Ensure you 
 and your loved ones are protected.</p>
-      <button class="font-karla text-neutral-veryLightgray p-2 px-6 mt-8 border-solid border-2 border-neutral-veryLightgray transition duration-200 hover:bg-neutral-veryLightgray hover:text-primary-darkViolet">VIEW PLANS</button>
-      <img class="absolute right-0 top-72 sm:top-52" src="../assets/images/bg-pattern-intro-right-mobile.svg">
+      <button class="font-karla text-neutral-veryLightgray p-2 px-6 mt-8 border-solid border-2 border-neutral-veryLightgray transition duration-200 hover:bg-neutral-veryLightgray hover:text-primary-darkViolet z-30">VIEW PLANS</button>
+      <img class="absolute right-0 top-72 sm:top-52 z-0" src="../assets/images/bg-pattern-intro-right-mobile.svg">
     </div>
   </section>
 </template>
