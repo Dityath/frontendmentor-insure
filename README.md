@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Dityath/frontendmentor-insure)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-landingpage-using-nuxt-js-and-tailwind-css-aB0ahODu9)
 - Github URL: [Github](https://github.com/Dityath/frontendmentor-insure)
 - Live Site URL: [Live Site](https://insure-landingpage-dityath.netlify.app/)
 
