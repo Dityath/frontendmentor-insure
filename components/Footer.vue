@@ -1,5 +1,5 @@
 <template>
-  <footer class="mx-auto relative px-5 sm:px-14 lg:px-28 2xl:px-60 py-20 bg-neutral-veryLightgray">
+  <footer class="mx-auto px-5 sm:px-14 lg:px-28 2xl:px-60 py-20 bg-neutral-veryLightgray">
     <div class="flex justify-between items-center flex-col gap-y-8 md:flex-row">
       <img class="" src="../assets/images/logo.svg" alt="logo">
       <div class="flex justify-between gap-3 items-center">

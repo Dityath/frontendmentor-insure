@@ -10,7 +10,13 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        pattern: "url('/assets/images/bg-pattern-how-we-work-desktop.svg')"
+        "pattern-work-desktop":
+          "url('assets/images/bg-pattern-how-we-work-desktop.svg')",
+        "pattern-work-mobile":
+          "url('assets/images/bg-pattern-how-we-work-mobile.svg')",
+        "pattern-intro-left":
+          "url('assets/images/bg-pattern-intro-left-mobile.svg')",
+        "pattern-nav-mobile": "url('assets/images/bg-pattern-mobile-nav.svg')"
       }
     },
     fontFamily: {

@@ -7,7 +7,19 @@
   ">
     <img class="" src="../assets/images/logo.svg" alt="logo">
 
-    <img class="cursor-pointer lg:hidden" src="../assets/images/icon-hamburger.svg">
+    <button 
+      @click="showMobileMenu"
+      v-show="isHidden"
+    >
+      <img class='cursor-pointer lg:hidden' src="../assets/images/icon-hamburger.svg">
+    </button>
+
+    <button 
+      @click="closeMobileMenu"
+      v-show="!isHidden"
+    >
+      <img class='cursor-pointer lg:hidden' src="../assets/images/icon-close.svg">
+    </button>
 
     <!-- large -->
     <div class="hidden
@@ -31,3 +43,23 @@
     </div>
   </nav>
 </template>
+
+<script>
+  export default {
+    data () {
+      return {
+        isHidden: true
+      }
+    },
+    methods: {
+      showMobileMenu () {
+        this.$emit('showMobileMenu')
+        this.isHidden = false
+      },
+      closeMobileMenu () {
+        this.$emit('closeMobileMenu')
+        this.isHidden = true
+      }
+    }
+  }
+</script>
