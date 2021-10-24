@@ -12,8 +12,6 @@ This is a solution to the [Insure landing page challenge on Frontend Mentor](htt
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ![Design preview for the Insure landing page coding challenge](./assets/design/desktop-preview.jpg)
@@ -41,11 +39,8 @@ Users should be able to:
 - [Nuxt.js](https://nuxtjs.org/) - Vue framework
 - [Tailwind Css](https://tailwindcss.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ## Author
 
 - Frontend Mentor - [@Dityath](https://www.frontendmentor.io/profile/Dityath)
 - Twitter - [@bellezzasky](https://twitter.com/bellezzasky)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
